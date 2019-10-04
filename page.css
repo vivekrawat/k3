@@ -1,0 +1,113 @@
+.cla1{
+    background-color:rgba(211,211,211,.1);
+}
+.fn{
+    font-size:15px;
+    color:rgba(0,0,0,.5);
+    font-family:vredana;
+}
+.h{
+    font-size:18px;
+    font-family:vredana;
+
+}
+button{
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    color: rgb(0,204,204);
+    border-style:solid;
+    border-width:1px;
+    border-color: rgb(0,204,204);
+    background-color: white;
+
+}
+.cla2
+{
+
+    margin-bottom:30px;
+    margin-top:30px;
+}
+.cl3
+{
+    background-color:white;
+    padding:10px;
+}
+#id01
+{
+    color:rgb(0,204,204);
+
+}
+.icon
+{
+    background-color:green;
+    font-size:5px;
+}
+.im{
+    height:60px;
+    width:60px;
+    border-radius:50%
+}
+.fnt{
+    color:rgba(0,0,0,.7);
+    font-size:15px;
+}
+.fna{
+    color:rgba(0,0,0,.4);
+    font-family:vredana;
+    font-size:16px;
+}
+
+a:link {
+    color: rgba(0,0,0,.6);
+    text-decoration: underline;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgba(0,0,0,.6);
+    text-decoration: underline;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+  .fa-facebook {
+    background: white;
+    color: rgba(0,0,0,.5);
+  }
+  
+  
+  .fa-twitter {
+    background: white;
+    color: rgba(0,0,0,.5);
+  }
+  
+  .fa-linkedin {
+    background: white;
+    color: rgba(0,0,0,.5);
+  }
+  
+  .fa-instagram {
+    background: white;
+    color: rgba(0,0,0,.5);
+    font-size:30px;
+  }
+  .fa {
+    font-size:30px;
+    padding:20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  #idd{
+      margin-left:5px;
+  }
+  
+  
