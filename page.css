@@ -102,12 +102,30 @@ a:link {
   }
   .fa {
     font-size:30px;
-    padding:20px;
+    padding:15px;
     text-align: center;
+    text-decoration: none;
+  }
+  .fa:link{
     text-decoration: none;
   }
   #idd{
       margin-left:5px;
   }
+  #id9
+  {
+    margin-right:30px;
+  }
+  #id6{
+    font-family:vredana;
+    font-size:25px;
+  }
+  #id6:link {
+  
+    text-decoration: none;
+  }
+  
+
+  
   
   
